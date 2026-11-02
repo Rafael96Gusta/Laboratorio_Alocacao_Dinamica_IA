@@ -1,0 +1,1 @@
+# Laboratorio_Alocacao_Dinamica_IA
